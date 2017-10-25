@@ -1,0 +1,27 @@
+MVP Core Features
+- Authenticated login
+- Play against simple bot
+- Guess if opponent is human
+- Store game records
+
+Ideas for later
+- Facebook integration
+- Playing against live person
+- Show users a leaderboard
+- Use real machine learning API
+
+User Stories
+- Login
+    1) The user may choose to create new account or login
+    2) The user enters username and password presses log in or sign up
+    3) The user is navigated to the site's homepage
+- Playing a game
+    1) The user chooses to start a new game
+    2) The user connects to an opponent
+    3) The user plays through a full game
+    4) After the game, the user may guess whether the opponent was a human or robot
+- Viewing/editing profiles
+    1) Users may navigate to their profile page from the menu
+    2) Profile page displays the user's information
+    3) Profile page also displays a record of the user's last games
+    4) Users may edit their personal information
